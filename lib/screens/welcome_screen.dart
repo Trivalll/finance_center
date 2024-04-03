@@ -66,7 +66,7 @@ class WelcomeScreen extends StatelessWidget {
                       Padding(
                         padding: const EdgeInsets.symmetric(horizontal: 20),
                         child: Text(
-                          "ИНФОРМАЦИОННАЯ СИСТЕМА «ГОСУДАРСТВЕННОЕ ПЛАНИРОВАНИЕ»(БЮДЖЕТНОЕ ПЛАНИРОВАНИЕ)",
+                          "ИНФОРМАЦИОННАЯ СИСТЕМА «ГОСУДАРСТВЕННОЕ ПЛАНИРОВАНИЕ»(БЮДЖЕТНОЕ ПЛАНИРОВАНИb)",
                           textAlign: TextAlign.center,
                           style: TextStyle(
                             fontSize: 17,
